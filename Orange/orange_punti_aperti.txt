@@ -1,0 +1,10 @@
+Punti aperti in Orange:
+- il widget outlier non sembra fornire i LOF score (solo via Python?)
+- come confrontare boxplot?
+- silhouette plot
+- perchè due directory per i dataset? (una da Data Table --> bottone al fondo; una sotto il path Miniconda)
+- nel widget Distributions non si vedono gli istogrammi
+- come si ottengono velocemente le frequenze di classe (senza Select Columns --> Data Table)
+- come calcolare R2 della regressione lineare sul dataset intero, senza cioè doverlo suddividere in training e test con il widget "test and score"
+- come ribilanciare classi sbilanciate con il widget Python Script (vedi post di stackexchange 50944 - prima risposta) 
+- nel workflow della regressione inserire i due widget continuize (per la dummizzazione delle variabili categoriche) e Preprocess --> Normalize Features (per mostrare che la regressione lineare è invariante alla scala).
