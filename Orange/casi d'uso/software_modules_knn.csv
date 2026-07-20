@@ -1,0 +1,401 @@
+module_id,functional_area,loc,avg_cyclomatic_complexity,code_churn_60d,commits_60d,test_coverage_pct,past_defects_12m,fan_out,age_months,defect_prone
+MOD-0001,Digital Channels,1830,11.6,57,3,67.5,3,9,54,No
+MOD-0002,Payments,6019,15.0,325,7,67.8,7,5,20,Yes
+MOD-0003,Payments,4565,11.5,17,1,59.0,4,11,67,Yes
+MOD-0004,Payments,5527,10.9,9,1,51.6,4,15,83,Yes
+MOD-0005,Core Accounts,652,8.3,66,3,59.4,0,10,71,No
+MOD-0006,Securities,2775,12.2,407,9,45.2,2,2,108,Yes
+MOD-0007,Payments,815,2.2,249,7,71.6,0,3,47,No
+MOD-0008,Core Accounts,1656,7.8,229,7,50.5,4,3,13,Yes
+MOD-0009,Core Accounts,539,5.2,58,2,63.1,0,8,93,No
+MOD-0010,Digital Channels,863,8.3,257,8,69.1,1,2,15,No
+MOD-0011,Anti-Fraud,843,8.6,117,5,56.0,3,3,21,No
+MOD-0012,Digital Channels,2747,11.0,465,11,73.7,2,8,26,Yes
+MOD-0013,Payments,2552,11.5,118,8,79.2,3,10,104,Yes
+MOD-0014,Securities,1723,8.9,284,8,63.2,4,6,35,Yes
+MOD-0015,Anti-Fraud,508,2.9,107,3,71.3,4,6,135,No
+MOD-0016,Payments,1108,6.6,90,4,80.8,2,7,47,No
+MOD-0017,Core Accounts,800,6.2,99,3,65.0,0,10,72,No
+MOD-0018,Anti-Fraud,2688,10.1,54,3,57.6,5,10,36,Yes
+MOD-0019,Anti-Fraud,3388,6.2,1609,36,84.0,4,4,71,No
+MOD-0020,Core Accounts,3092,9.6,93,4,80.2,3,8,66,No
+MOD-0021,Digital Channels,795,6.3,319,11,83.4,2,8,3,No
+MOD-0022,Core Accounts,179,1.5,103,6,95.9,1,10,149,No
+MOD-0023,Digital Channels,372,3.0,11,4,51.4,1,5,16,No
+MOD-0024,Payments,4066,12.8,190,4,85.3,2,6,56,Yes
+MOD-0025,Payments,1036,4.3,296,9,79.1,2,9,97,No
+MOD-0026,Digital Channels,797,2.1,284,7,89.2,1,10,81,No
+MOD-0027,Payments,4799,11.2,189,6,70.8,3,12,102,Yes
+MOD-0028,Digital Channels,3616,13.1,288,8,67.6,5,10,3,Yes
+MOD-0029,Securities,1426,12.3,334,9,68.0,1,1,76,Yes
+MOD-0030,Anti-Fraud,1123,9.2,103,2,78.3,3,7,17,No
+MOD-0031,Digital Channels,1268,4.0,140,3,68.2,1,5,55,No
+MOD-0032,Core Accounts,1660,8.0,76,2,83.2,2,9,24,No
+MOD-0033,Digital Channels,4648,12.6,297,10,43.4,4,9,8,Yes
+MOD-0034,Securities,1922,9.5,133,6,62.7,2,6,70,No
+MOD-0035,Core Accounts,2413,11.2,84,5,97.7,1,9,82,No
+MOD-0036,Payments,3365,8.6,190,4,58.6,4,6,63,No
+MOD-0037,Anti-Fraud,582,5.2,6,3,73.3,1,5,113,No
+MOD-0038,Digital Channels,2466,10.9,1491,35,56.6,5,14,50,Yes
+MOD-0039,Anti-Fraud,1122,9.3,133,4,77.9,0,7,88,No
+MOD-0040,Anti-Fraud,212,1.5,172,9,71.8,0,7,36,No
+MOD-0041,Anti-Fraud,284,1.8,339,10,77.9,1,5,118,No
+MOD-0042,Payments,652,1.5,127,4,88.0,0,5,48,No
+MOD-0043,Anti-Fraud,2085,7.8,223,5,60.1,1,7,119,Yes
+MOD-0044,Core Accounts,1525,7.0,457,13,82.6,2,7,127,No
+MOD-0045,Core Accounts,1608,5.9,111,3,82.8,2,8,84,No
+MOD-0046,Core Accounts,6048,13.3,228,7,79.0,4,13,99,Yes
+MOD-0047,Securities,540,4.7,261,6,79.0,0,5,3,No
+MOD-0048,Securities,1371,2.3,130,3,98.0,0,6,65,No
+MOD-0049,Securities,1759,9.3,150,5,85.5,1,5,101,No
+MOD-0050,Payments,806,3.8,44,1,79.5,2,8,96,No
+MOD-0051,Core Accounts,1430,9.3,109,3,59.6,1,9,36,No
+MOD-0052,Anti-Fraud,422,1.5,137,9,77.0,1,4,62,No
+MOD-0053,Digital Channels,4031,11.6,202,4,86.3,2,9,3,Yes
+MOD-0054,Core Accounts,840,5.6,27,2,98.0,1,2,82,No
+MOD-0055,Core Accounts,6424,13.8,85,6,84.6,6,13,17,Yes
+MOD-0056,Core Accounts,1366,8.2,300,9,83.1,0,7,102,No
+MOD-0057,Payments,3027,9.9,44,4,50.3,2,11,103,Yes
+MOD-0058,Digital Channels,1345,4.0,293,9,79.0,1,4,17,No
+MOD-0059,Payments,1368,4.2,66,2,54.7,4,4,85,No
+MOD-0060,Digital Channels,903,5.1,153,3,53.5,1,3,24,No
+MOD-0061,Digital Channels,1531,8.3,13,1,74.9,2,2,37,No
+MOD-0062,Core Accounts,1777,7.3,265,7,78.1,1,10,38,No
+MOD-0063,Anti-Fraud,777,7.6,27,3,87.8,2,4,87,No
+MOD-0064,Securities,1275,7.0,162,4,79.5,2,7,24,No
+MOD-0065,Anti-Fraud,886,4.1,168,6,81.9,0,4,19,No
+MOD-0066,Digital Channels,7856,13.1,387,12,49.0,7,9,27,Yes
+MOD-0067,Digital Channels,1309,8.3,71,3,70.9,0,9,24,No
+MOD-0068,Digital Channels,4461,12.7,615,15,44.7,2,6,38,Yes
+MOD-0069,Digital Channels,1209,12.2,178,7,44.7,0,6,12,Yes
+MOD-0070,Anti-Fraud,1701,7.0,126,4,81.3,3,5,123,No
+MOD-0071,Core Accounts,520,4.5,21,1,66.7,1,7,74,No
+MOD-0072,Digital Channels,1001,7.9,82,5,86.0,0,6,37,No
+MOD-0073,Digital Channels,1639,8.5,22,1,86.7,3,3,36,No
+MOD-0074,Core Accounts,4600,10.7,0,4,57.0,2,12,98,No
+MOD-0075,Anti-Fraud,1654,4.7,436,11,79.4,0,9,86,No
+MOD-0076,Core Accounts,3952,10.2,4,1,57.2,3,15,82,No
+MOD-0077,Core Accounts,2264,6.9,79,4,43.6,3,5,91,Yes
+MOD-0078,Payments,4745,7.8,524,12,67.2,1,13,19,Yes
+MOD-0079,Payments,1339,5.9,141,3,65.6,3,5,20,No
+MOD-0080,Digital Channels,8408,11.4,60,3,56.3,6,12,28,Yes
+MOD-0081,Core Accounts,973,8.2,326,9,98.0,2,9,64,No
+MOD-0082,Core Accounts,788,7.6,167,5,53.7,0,4,86,No
+MOD-0083,Securities,565,2.7,4,1,82.2,0,3,71,No
+MOD-0084,Core Accounts,8043,13.2,200,4,48.7,8,9,86,Yes
+MOD-0085,Digital Channels,2588,5.4,481,14,81.4,4,6,3,No
+MOD-0086,Anti-Fraud,1090,5.9,401,12,77.5,1,5,70,No
+MOD-0087,Payments,3572,12.1,232,6,72.3,1,9,32,Yes
+MOD-0088,Core Accounts,2345,11.8,30,1,56.0,6,4,81,Yes
+MOD-0089,Core Accounts,6117,11.1,142,6,53.4,2,10,17,Yes
+MOD-0090,Digital Channels,438,6.8,497,13,91.2,0,8,40,No
+MOD-0091,Core Accounts,1147,3.5,215,6,97.9,5,7,29,No
+MOD-0092,Core Accounts,990,3.7,67,6,80.6,3,3,59,No
+MOD-0093,Core Accounts,319,4.8,76,3,67.3,0,6,95,No
+MOD-0094,Core Accounts,3101,14.8,100,2,72.5,4,17,76,Yes
+MOD-0095,Core Accounts,1143,8.6,90,5,98.0,0,9,24,No
+MOD-0096,Core Accounts,2438,9.7,76,4,70.5,4,9,51,Yes
+MOD-0097,Digital Channels,8218,8.4,130,4,83.0,2,12,3,No
+MOD-0098,Digital Channels,1074,2.1,67,4,63.0,3,8,3,No
+MOD-0099,Securities,1021,7.3,235,6,73.1,1,1,73,No
+MOD-0100,Digital Channels,1530,7.4,607,16,80.2,1,6,46,No
+MOD-0101,Anti-Fraud,2936,7.7,159,9,73.6,3,8,82,No
+MOD-0102,Payments,915,6.7,147,6,63.5,0,5,87,No
+MOD-0103,Core Accounts,872,6.7,360,10,63.2,0,9,70,No
+MOD-0104,Securities,3094,13.0,260,8,81.6,5,15,62,Yes
+MOD-0105,Digital Channels,1860,9.3,248,7,87.2,1,6,3,No
+MOD-0106,Payments,302,6.0,116,7,98.0,0,6,58,No
+MOD-0107,Digital Channels,558,5.0,185,6,98.0,2,7,3,No
+MOD-0108,Securities,4316,11.5,186,4,67.9,3,10,46,Yes
+MOD-0109,Core Accounts,1893,11.7,112,4,66.0,0,6,72,No
+MOD-0110,Anti-Fraud,790,3.6,348,11,94.0,0,6,67,No
+MOD-0111,Securities,1232,14.6,53,2,82.7,4,6,156,No
+MOD-0112,Anti-Fraud,1414,9.0,356,8,58.2,2,8,32,No
+MOD-0113,Anti-Fraud,2431,10.8,251,7,54.6,1,15,66,Yes
+MOD-0114,Anti-Fraud,505,5.9,92,4,84.3,0,3,30,No
+MOD-0115,Payments,745,10.6,64,1,72.9,2,6,59,No
+MOD-0116,Digital Channels,1718,10.7,447,14,70.5,2,5,20,Yes
+MOD-0117,Payments,1299,3.7,159,6,87.4,0,6,94,No
+MOD-0118,Core Accounts,2150,12.9,22,2,80.3,4,11,57,No
+MOD-0119,Anti-Fraud,557,4.1,129,6,95.5,1,7,65,No
+MOD-0120,Digital Channels,1830,9.2,484,13,43.5,1,8,18,Yes
+MOD-0121,Core Accounts,3175,7.5,158,5,71.2,3,7,31,Yes
+MOD-0122,Securities,2017,10.5,184,4,79.8,3,11,52,No
+MOD-0123,Digital Channels,1554,6.7,465,13,50.1,1,7,19,Yes
+MOD-0124,Digital Channels,1303,8.0,368,11,63.2,1,6,32,Yes
+MOD-0125,Core Accounts,749,5.2,110,2,63.6,2,5,86,No
+MOD-0126,Anti-Fraud,1326,12.6,69,3,72.6,1,8,63,No
+MOD-0127,Payments,3601,16.1,277,8,89.8,1,8,63,Yes
+MOD-0128,Payments,1280,7.8,154,5,98.0,0,4,22,No
+MOD-0129,Digital Channels,718,5.9,582,16,64.2,1,3,45,No
+MOD-0130,Anti-Fraud,968,5.8,249,7,81.3,1,6,51,No
+MOD-0131,Securities,1628,11.3,8,2,79.0,1,4,91,No
+MOD-0132,Securities,1058,6.2,130,5,78.9,0,6,107,No
+MOD-0133,Payments,2015,8.2,99,4,75.6,1,10,65,Yes
+MOD-0134,Anti-Fraud,2072,11.8,71,4,74.2,3,11,41,No
+MOD-0135,Payments,2727,8.9,187,4,92.1,3,10,70,Yes
+MOD-0136,Core Accounts,4072,11.5,38,2,81.7,2,12,80,No
+MOD-0137,Anti-Fraud,2955,6.5,37,7,53.2,1,6,61,No
+MOD-0138,Payments,695,7.4,37,4,86.9,2,6,54,No
+MOD-0139,Core Accounts,711,10.6,26,3,88.1,3,8,86,No
+MOD-0140,Core Accounts,1323,9.6,108,4,76.7,3,6,84,No
+MOD-0141,Digital Channels,998,10.5,1079,25,89.6,1,7,20,No
+MOD-0142,Securities,596,3.0,85,7,79.2,1,3,24,No
+MOD-0143,Core Accounts,1005,7.5,224,7,76.6,0,7,83,No
+MOD-0144,Payments,981,4.5,43,1,75.6,3,13,49,No
+MOD-0145,Digital Channels,846,5.8,162,8,46.4,3,6,36,Yes
+MOD-0146,Digital Channels,1105,9.1,666,16,72.1,1,4,34,Yes
+MOD-0147,Payments,3388,11.2,258,7,57.9,5,8,17,Yes
+MOD-0148,Core Accounts,1626,5.0,159,6,54.6,3,8,72,Yes
+MOD-0149,Anti-Fraud,8938,10.9,322,10,82.2,4,13,84,Yes
+MOD-0150,Payments,1591,5.0,612,17,78.4,1,7,88,No
+MOD-0151,Securities,1126,8.5,236,6,72.7,2,5,73,No
+MOD-0152,Core Accounts,1404,13.2,19,2,64.1,2,10,15,Yes
+MOD-0153,Securities,1697,12.0,337,8,75.1,2,13,106,No
+MOD-0154,Securities,1940,4.3,304,9,84.1,2,6,82,No
+MOD-0155,Core Accounts,6646,16.7,212,6,52.1,6,12,36,Yes
+MOD-0156,Payments,743,8.2,77,2,75.3,2,5,48,No
+MOD-0157,Core Accounts,2666,6.3,102,3,80.7,0,7,76,No
+MOD-0158,Digital Channels,1636,7.8,29,4,44.1,1,3,49,No
+MOD-0159,Core Accounts,431,6.8,46,3,77.5,1,6,56,No
+MOD-0160,Payments,2496,11.3,127,4,62.9,2,8,93,No
+MOD-0161,Digital Channels,3623,7.9,177,4,65.1,3,12,3,Yes
+MOD-0162,Payments,736,7.4,346,11,68.4,1,11,41,Yes
+MOD-0163,Digital Channels,1391,2.6,173,5,74.0,1,4,3,No
+MOD-0164,Securities,384,3.1,953,24,98.0,1,5,45,No
+MOD-0165,Digital Channels,545,7.7,148,6,72.5,1,5,72,Yes
+MOD-0166,Payments,3073,10.7,154,5,71.9,5,10,128,Yes
+MOD-0167,Payments,987,5.6,16,1,98.0,1,10,77,No
+MOD-0168,Core Accounts,609,7.4,109,4,68.7,1,8,52,No
+MOD-0169,Payments,1663,11.0,103,2,96.5,3,11,64,No
+MOD-0170,Payments,946,10.0,797,18,74.2,0,4,83,Yes
+MOD-0171,Digital Channels,983,9.0,270,6,98.0,1,6,3,No
+MOD-0172,Digital Channels,2437,12.6,29,3,79.5,3,11,14,Yes
+MOD-0173,Payments,586,6.9,22,4,80.9,1,6,110,No
+MOD-0174,Anti-Fraud,710,6.4,18,3,74.7,0,7,41,No
+MOD-0175,Digital Channels,1572,8.6,150,6,62.6,3,5,9,No
+MOD-0176,Anti-Fraud,2897,9.8,73,4,69.2,2,8,70,No
+MOD-0177,Digital Channels,3543,8.1,1305,33,79.6,2,11,38,Yes
+MOD-0178,Digital Channels,850,3.9,73,3,74.5,0,9,12,No
+MOD-0179,Core Accounts,2828,9.6,135,4,63.8,3,12,72,No
+MOD-0180,Digital Channels,778,6.6,191,5,71.6,1,7,47,No
+MOD-0181,Anti-Fraud,5508,16.2,235,7,78.6,2,11,125,Yes
+MOD-0182,Payments,598,5.1,74,5,93.7,1,1,66,No
+MOD-0183,Securities,3792,13.8,13,2,57.3,2,12,69,No
+MOD-0184,Payments,856,9.1,48,2,65.3,2,2,113,No
+MOD-0185,Anti-Fraud,6337,12.5,90,4,69.3,3,12,55,Yes
+MOD-0186,Core Accounts,2181,11.0,279,6,91.0,5,5,33,No
+MOD-0187,Digital Channels,653,4.8,465,12,92.1,4,9,37,No
+MOD-0188,Digital Channels,946,10.0,90,4,56.6,3,6,60,Yes
+MOD-0189,Anti-Fraud,2515,11.5,126,5,65.2,3,8,80,No
+MOD-0190,Payments,3083,7.7,78,5,54.8,2,10,67,Yes
+MOD-0191,Digital Channels,1328,8.2,9,0,68.5,3,6,3,No
+MOD-0192,Anti-Fraud,1448,12.2,33,2,94.3,3,5,68,No
+MOD-0193,Payments,2473,9.4,268,8,49.0,4,10,105,Yes
+MOD-0194,Digital Channels,1545,9.4,345,8,48.8,2,8,3,No
+MOD-0195,Securities,531,6.1,103,2,65.6,1,8,63,No
+MOD-0196,Digital Channels,761,3.4,412,12,79.3,1,11,19,No
+MOD-0197,Core Accounts,1670,9.9,223,6,79.8,3,6,50,Yes
+MOD-0198,Securities,3484,7.6,357,11,73.3,5,10,77,Yes
+MOD-0199,Payments,4704,10.5,30,3,82.0,2,15,82,No
+MOD-0200,Payments,2512,12.6,531,16,44.2,6,11,82,Yes
+MOD-0201,Payments,1737,9.6,38,2,87.5,7,6,43,No
+MOD-0202,Digital Channels,2455,9.1,507,13,64.6,2,13,3,Yes
+MOD-0203,Securities,849,7.4,23,4,84.9,2,6,77,No
+MOD-0204,Payments,1248,7.5,49,2,54.1,2,6,56,No
+MOD-0205,Digital Channels,755,6.0,520,12,75.4,0,7,81,Yes
+MOD-0206,Digital Channels,549,6.5,125,4,80.3,1,8,83,No
+MOD-0207,Core Accounts,1798,7.0,40,3,86.8,1,2,126,No
+MOD-0208,Anti-Fraud,1609,8.6,564,19,49.1,3,9,44,Yes
+MOD-0209,Securities,2345,8.9,36,2,69.7,3,9,86,Yes
+MOD-0210,Digital Channels,2109,5.4,355,9,54.6,2,10,54,No
+MOD-0211,Payments,1679,6.3,382,10,78.1,4,6,91,No
+MOD-0212,Digital Channels,2125,13.3,347,9,80.7,2,2,20,Yes
+MOD-0213,Anti-Fraud,1356,8.9,110,5,90.2,0,11,106,No
+MOD-0214,Digital Channels,1908,5.7,9,1,62.9,2,9,30,No
+MOD-0215,Core Accounts,812,2.3,146,6,87.9,1,12,74,No
+MOD-0216,Digital Channels,1847,8.6,434,13,89.6,1,6,3,No
+MOD-0217,Securities,2311,13.6,182,8,46.3,4,7,88,Yes
+MOD-0218,Digital Channels,847,5.9,315,8,83.3,0,7,23,No
+MOD-0219,Digital Channels,1455,11.4,459,13,85.2,1,6,43,No
+MOD-0220,Anti-Fraud,877,7.3,33,4,70.9,1,5,77,No
+MOD-0221,Core Accounts,943,7.9,59,2,57.2,2,4,75,No
+MOD-0222,Payments,602,1.8,462,13,89.7,1,7,69,No
+MOD-0223,Core Accounts,3618,13.5,9,4,50.1,0,8,92,No
+MOD-0224,Payments,3113,9.8,648,14,65.2,4,7,64,Yes
+MOD-0225,Securities,2095,11.5,310,7,69.3,3,10,29,No
+MOD-0226,Securities,6145,10.9,91,4,74.1,4,10,86,Yes
+MOD-0227,Digital Channels,1215,8.0,254,7,64.0,0,5,7,Yes
+MOD-0228,Payments,13603,16.5,261,7,50.3,6,8,33,Yes
+MOD-0229,Payments,1180,7.0,18,1,74.3,3,7,41,No
+MOD-0230,Payments,1695,9.6,159,5,85.1,3,10,78,No
+MOD-0231,Anti-Fraud,1039,6.3,207,7,98.0,3,3,67,No
+MOD-0232,Digital Channels,1851,7.3,635,14,49.4,1,4,3,No
+MOD-0233,Payments,2620,14.1,387,9,73.1,4,6,59,Yes
+MOD-0234,Payments,1285,10.3,618,17,57.2,1,5,103,Yes
+MOD-0235,Core Accounts,5307,10.5,97,4,79.2,6,3,57,No
+MOD-0236,Securities,1675,10.0,415,12,57.9,3,5,65,Yes
+MOD-0237,Core Accounts,1715,6.8,38,2,61.5,3,2,99,No
+MOD-0238,Core Accounts,708,2.8,102,4,67.4,1,6,92,No
+MOD-0239,Anti-Fraud,1916,11.6,220,7,69.3,3,7,99,Yes
+MOD-0240,Securities,1266,3.4,124,5,77.1,0,7,3,No
+MOD-0241,Digital Channels,887,8.8,345,10,81.2,2,10,79,Yes
+MOD-0242,Payments,782,5.4,507,12,75.0,1,5,88,No
+MOD-0243,Anti-Fraud,10384,14.2,230,9,42.7,7,13,139,Yes
+MOD-0244,Anti-Fraud,1149,8.4,147,6,83.2,2,5,48,No
+MOD-0245,Digital Channels,469,5.8,861,20,77.1,1,6,3,No
+MOD-0246,Core Accounts,829,4.2,312,9,91.1,1,8,70,No
+MOD-0247,Payments,1347,9.7,181,5,62.3,2,10,62,No
+MOD-0248,Digital Channels,2110,9.7,256,9,47.4,4,8,48,Yes
+MOD-0249,Digital Channels,2122,6.2,653,17,69.3,1,4,60,Yes
+MOD-0250,Payments,2325,9.3,586,15,87.4,1,21,68,Yes
+MOD-0251,Core Accounts,863,9.8,72,4,76.8,3,4,63,No
+MOD-0252,Core Accounts,1807,13.0,78,5,67.8,2,6,85,Yes
+MOD-0253,Digital Channels,726,7.6,689,20,63.3,2,7,23,Yes
+MOD-0254,Digital Channels,880,3.5,270,7,98.0,0,6,20,No
+MOD-0255,Digital Channels,703,6.9,281,9,61.3,2,7,59,No
+MOD-0256,Digital Channels,574,7.2,418,11,66.6,0,3,65,No
+MOD-0257,Securities,3110,12.5,31,4,75.7,3,6,100,No
+MOD-0258,Securities,2347,11.7,189,5,43.3,0,8,65,Yes
+MOD-0259,Payments,2912,11.3,21,3,85.9,1,5,10,No
+MOD-0260,Digital Channels,1442,7.9,33,2,80.6,3,6,26,Yes
+MOD-0261,Core Accounts,2507,8.4,192,9,81.5,1,8,49,No
+MOD-0262,Core Accounts,374,1.5,108,4,86.9,0,7,66,No
+MOD-0263,Securities,2675,11.0,4,3,66.3,4,8,51,No
+MOD-0264,Payments,1599,8.9,175,6,56.4,2,8,69,Yes
+MOD-0265,Core Accounts,2241,11.0,124,5,67.5,1,6,41,No
+MOD-0266,Payments,1862,5.6,46,2,56.8,2,5,34,No
+MOD-0267,Payments,668,7.1,46,2,82.8,1,4,104,No
+MOD-0268,Digital Channels,455,9.4,35,1,89.3,1,8,3,No
+MOD-0269,Securities,821,6.4,122,4,95.5,0,6,70,No
+MOD-0270,Securities,2139,9.3,219,5,74.9,2,8,97,Yes
+MOD-0271,Core Accounts,2349,10.5,446,12,82.2,3,6,96,No
+MOD-0272,Digital Channels,502,9.7,103,5,73.3,0,6,52,No
+MOD-0273,Securities,671,3.0,219,6,69.2,2,5,78,No
+MOD-0274,Digital Channels,814,6.7,204,9,81.5,2,8,50,No
+MOD-0275,Anti-Fraud,1071,5.1,204,6,68.0,3,2,108,No
+MOD-0276,Digital Channels,504,3.2,535,14,81.2,1,6,42,No
+MOD-0277,Core Accounts,482,4.3,63,2,62.8,1,14,19,No
+MOD-0278,Digital Channels,756,9.3,35,1,62.9,6,6,15,No
+MOD-0279,Core Accounts,1494,12.7,199,7,80.5,2,4,89,No
+MOD-0280,Core Accounts,578,6.2,97,3,89.1,3,4,52,No
+MOD-0281,Core Accounts,1284,6.8,304,9,58.7,4,5,115,Yes
+MOD-0282,Securities,3097,16.9,46,3,77.2,2,15,68,Yes
+MOD-0283,Payments,527,3.7,31,2,69.8,1,7,72,No
+MOD-0284,Core Accounts,1199,6.1,24,5,73.1,0,5,101,No
+MOD-0285,Payments,3019,6.1,896,21,87.7,1,3,65,No
+MOD-0286,Core Accounts,1023,10.4,242,7,85.0,1,6,75,No
+MOD-0287,Core Accounts,910,9.0,40,3,85.4,1,7,95,No
+MOD-0288,Anti-Fraud,3350,17.0,81,7,94.1,1,15,29,Yes
+MOD-0289,Payments,1113,3.8,217,8,63.4,1,11,62,No
+MOD-0290,Digital Channels,3205,14.4,222,6,53.8,3,8,53,Yes
+MOD-0291,Core Accounts,1931,9.2,44,1,60.2,2,6,72,No
+MOD-0292,Payments,1083,9.2,86,3,69.8,2,5,111,No
+MOD-0293,Securities,2006,5.1,456,12,37.1,0,8,26,Yes
+MOD-0294,Payments,1780,12.5,245,8,67.8,1,8,23,Yes
+MOD-0295,Payments,3011,12.5,459,11,60.3,5,7,92,Yes
+MOD-0296,Securities,928,6.5,583,14,85.2,0,4,94,No
+MOD-0297,Core Accounts,1444,9.7,141,5,76.8,3,11,65,No
+MOD-0298,Core Accounts,1337,5.9,130,4,63.8,0,5,81,No
+MOD-0299,Payments,2374,8.3,35,3,77.4,3,7,91,No
+MOD-0300,Payments,649,4.3,159,5,86.2,1,5,47,No
+MOD-0301,Payments,3002,5.9,79,4,57.2,2,8,50,No
+MOD-0302,Core Accounts,1986,11.3,328,9,63.2,0,7,75,No
+MOD-0303,Securities,521,7.7,72,3,46.1,0,9,95,No
+MOD-0304,Core Accounts,3465,9.3,54,2,51.9,6,9,37,No
+MOD-0305,Payments,7479,14.5,561,15,52.7,7,11,64,Yes
+MOD-0306,Payments,2968,9.8,857,21,69.0,5,11,63,Yes
+MOD-0307,Anti-Fraud,4083,12.4,219,7,53.1,4,12,82,Yes
+MOD-0308,Payments,1493,6.6,182,6,64.5,1,8,70,Yes
+MOD-0309,Payments,403,1.6,74,3,61.5,0,7,55,No
+MOD-0310,Payments,351,6.0,323,8,81.8,1,5,105,No
+MOD-0311,Anti-Fraud,1695,8.5,152,5,76.9,5,6,55,No
+MOD-0312,Digital Channels,898,11.6,301,10,80.0,3,6,22,Yes
+MOD-0313,Digital Channels,705,5.8,265,8,75.8,1,4,3,No
+MOD-0314,Anti-Fraud,1336,5.5,142,5,50.7,0,5,50,No
+MOD-0315,Payments,2221,12.6,73,8,60.9,4,9,84,Yes
+MOD-0316,Anti-Fraud,471,5.9,924,22,72.1,0,3,79,No
+MOD-0317,Payments,1000,8.7,293,10,68.1,2,6,87,Yes
+MOD-0318,Digital Channels,4344,14.8,1612,38,67.0,5,10,45,Yes
+MOD-0319,Core Accounts,625,3.7,596,14,96.3,1,3,128,No
+MOD-0320,Securities,2688,9.9,102,4,79.9,1,9,49,No
+MOD-0321,Anti-Fraud,973,6.4,146,6,60.1,2,7,25,No
+MOD-0322,Payments,2108,6.1,336,9,79.3,5,11,41,Yes
+MOD-0323,Anti-Fraud,3188,10.1,90,4,76.6,3,10,50,Yes
+MOD-0324,Securities,2441,13.2,563,13,57.8,2,9,43,Yes
+MOD-0325,Digital Channels,2769,10.9,254,7,80.2,4,14,33,Yes
+MOD-0326,Anti-Fraud,590,1.8,98,5,74.4,2,9,105,No
+MOD-0327,Payments,3228,6.9,118,4,47.8,1,6,113,Yes
+MOD-0328,Anti-Fraud,739,10.0,17,2,81.8,2,7,84,No
+MOD-0329,Core Accounts,1701,8.4,48,1,74.0,2,10,130,No
+MOD-0330,Digital Channels,1699,7.0,1605,38,67.8,0,8,20,No
+MOD-0331,Payments,2014,8.5,118,6,69.5,0,8,24,No
+MOD-0332,Core Accounts,1803,5.1,63,5,60.6,0,6,99,No
+MOD-0333,Digital Channels,744,9.5,357,9,83.9,2,3,3,No
+MOD-0334,Core Accounts,509,3.6,113,4,76.8,1,8,49,No
+MOD-0335,Payments,2693,13.6,27,1,70.8,4,13,85,Yes
+MOD-0336,Securities,1609,8.6,236,5,76.3,3,4,67,No
+MOD-0337,Anti-Fraud,3315,14.4,26,3,51.2,3,10,65,Yes
+MOD-0338,Payments,1354,8.5,50,4,59.7,3,7,37,Yes
+MOD-0339,Digital Channels,488,6.6,23,4,46.7,1,4,30,No
+MOD-0340,Anti-Fraud,2889,12.2,338,9,76.0,5,12,98,Yes
+MOD-0341,Payments,1060,8.6,277,9,56.5,2,7,71,Yes
+MOD-0342,Payments,1809,9.7,96,2,72.5,2,7,47,Yes
+MOD-0343,Digital Channels,861,5.8,429,11,79.8,1,2,3,No
+MOD-0344,Payments,4805,16.9,490,12,73.9,8,12,47,Yes
+MOD-0345,Core Accounts,725,3.5,25,4,58.7,2,4,81,No
+MOD-0346,Digital Channels,1087,7.2,188,4,72.4,1,6,40,No
+MOD-0347,Core Accounts,1517,8.3,15,1,95.0,1,5,48,No
+MOD-0348,Securities,617,6.3,3,1,98.0,1,4,8,No
+MOD-0349,Digital Channels,1794,7.8,68,6,84.5,3,9,42,No
+MOD-0350,Core Accounts,4690,12.8,132,3,70.3,5,16,45,Yes
+MOD-0351,Payments,969,6.4,175,8,59.9,1,7,89,No
+MOD-0352,Core Accounts,1883,5.0,69,4,80.5,1,11,49,No
+MOD-0353,Anti-Fraud,178,1.5,195,5,80.8,1,2,42,No
+MOD-0354,Digital Channels,1360,5.2,746,18,80.0,0,7,34,No
+MOD-0355,Core Accounts,1107,2.9,110,2,64.4,4,8,136,No
+MOD-0356,Securities,758,6.3,306,7,72.9,2,5,91,No
+MOD-0357,Payments,3150,11.9,140,4,70.0,5,9,74,Yes
+MOD-0358,Securities,1096,8.5,10,0,76.8,2,7,80,No
+MOD-0359,Payments,1226,9.0,117,4,79.6,0,6,21,No
+MOD-0360,Anti-Fraud,1055,2.2,431,14,65.4,5,11,39,No
+MOD-0361,Payments,332,1.5,201,4,60.9,0,4,3,No
+MOD-0362,Digital Channels,599,10.1,1804,41,98.0,1,3,78,No
+MOD-0363,Payments,2879,7.8,219,5,98.0,2,7,113,No
+MOD-0364,Securities,288,4.3,360,9,86.7,2,5,81,No
+MOD-0365,Core Accounts,788,4.4,238,5,56.5,1,3,74,No
+MOD-0366,Securities,1037,7.2,169,6,62.8,0,10,27,No
+MOD-0367,Digital Channels,5177,10.8,256,6,72.2,3,11,24,Yes
+MOD-0368,Anti-Fraud,2492,11.3,220,6,87.7,1,5,120,No
+MOD-0369,Anti-Fraud,922,6.9,387,12,57.2,1,7,74,No
+MOD-0370,Payments,3724,10.1,306,9,65.0,3,6,54,Yes
+MOD-0371,Digital Channels,803,3.5,521,12,77.7,0,11,3,Yes
+MOD-0372,Payments,2984,11.2,39,3,80.1,5,8,109,Yes
+MOD-0373,Anti-Fraud,505,1.6,114,4,72.6,0,4,68,No
+MOD-0374,Core Accounts,3131,11.8,160,5,45.8,1,11,21,Yes
+MOD-0375,Securities,1032,13.5,144,5,82.3,2,7,44,Yes
+MOD-0376,Payments,647,8.8,556,12,91.9,0,6,34,No
+MOD-0377,Payments,1190,9.3,13,2,71.7,5,2,66,No
+MOD-0378,Securities,1724,8.5,82,6,76.6,2,3,76,No
+MOD-0379,Anti-Fraud,966,1.9,11,2,67.3,1,2,56,No
+MOD-0380,Digital Channels,2121,6.1,139,5,57.9,0,9,52,Yes
+MOD-0381,Anti-Fraud,904,9.7,3,2,88.7,1,4,72,No
+MOD-0382,Payments,2229,7.6,902,23,74.9,2,1,100,No
+MOD-0383,Core Accounts,1951,7.4,132,9,77.1,3,9,60,No
+MOD-0384,Securities,1337,7.4,192,5,93.3,2,7,155,No
+MOD-0385,Core Accounts,1005,4.2,119,7,59.0,4,6,54,No
+MOD-0386,Securities,1569,5.3,86,3,63.7,4,6,45,No
+MOD-0387,Securities,2115,9.2,43,3,72.0,3,5,41,No
+MOD-0388,Core Accounts,6572,10.9,144,5,55.9,6,14,64,Yes
+MOD-0389,Payments,2832,8.5,32,6,79.2,2,6,22,No
+MOD-0390,Core Accounts,2911,8.5,7,1,65.5,4,3,78,No
+MOD-0391,Digital Channels,14195,17.0,173,7,45.8,10,22,3,Yes
+MOD-0392,Payments,2062,8.7,205,5,70.9,7,8,75,Yes
+MOD-0393,Anti-Fraud,2014,8.8,22,3,72.4,3,8,32,No
+MOD-0394,Core Accounts,2374,11.3,243,6,82.3,4,11,59,No
+MOD-0395,Digital Channels,657,5.1,328,8,81.5,1,9,47,No
+MOD-0396,Digital Channels,1004,6.2,1061,26,80.2,0,7,95,No
+MOD-0397,Digital Channels,958,7.9,18,0,78.5,2,4,3,No
+MOD-0398,Digital Channels,2275,11.3,6,2,66.8,4,6,26,No
+MOD-0399,Anti-Fraud,1229,7.2,67,1,62.7,2,6,50,No
+MOD-0400,Digital Channels,1553,8.5,13,2,75.5,2,7,6,No

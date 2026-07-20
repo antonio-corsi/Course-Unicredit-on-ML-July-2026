@@ -1,0 +1,13 @@
+id_apparato,modello,sede,eta_mesi,ore_funzionamento,riavvii_30gg,errori_io_7gg,temperatura_media,vibrazione_rms
+NEW-001,SrvFiliale-X3,Napoli,26,18010,2,4,28.7,1.69
+NEW-002,NCR-6634,Bologna,27,17846,3,7,37.3,2.77
+NEW-003,Diebold-DN200,Napoli,98,63882,3,3,38.8,2.55
+NEW-004,Wincor-280,Milano,93,62934,5,6,29.5,2.04
+NEW-005,SrvFiliale-X3,Torino,6,4181,1,0,38.0,1.81
+NEW-006,NCR-6634,Napoli,116,77863,4,8,35.5,2.98
+NEW-007,NCR-6634,Padova,112,78183,6,4,37.2,2.12
+NEW-008,SrvFiliale-X3,Torino,97,62034,1,3,35.6,2.44
+NEW-009,Diebold-DN200,Roma,26,18044,1,3,32.7,2.0
+NEW-010,SrvFiliale-X3,Napoli,25,16879,1,5,37.4,2.4
+NEW-011,NCR-6634,Roma,83,58773,4,3,35.0,3.45
+NEW-012,SrvFiliale-X3,Napoli,26,18055,2,3,34.5,1.42
